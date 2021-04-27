@@ -8,11 +8,11 @@
 ### Rights
 -Open to the public under the open source license
 
-####Atributions
+###Atributions
 - Dataset was created by ***Diana Diaz***
     - Just testing
 
 ***
 
 Please contact diana.diaz.2071@gmail.com for more info
-[Hellar Studios](https://hellar studios.com)
+[Hellar Studios](https://hellarstudios.com)
