@@ -16,3 +16,5 @@
 
 Please contact diana.diaz.2071@gmail.com for more info
 [Hellar Studios](https://hellarstudios.com)
+
+![Pizza!](/binary_files/pizza.jpg "Yaay pizza!")
