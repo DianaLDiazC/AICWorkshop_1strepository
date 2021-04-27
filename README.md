@@ -14,7 +14,7 @@
 
 ***
 
-Please contact diana.diaz.2071@gmail.com for more info
+Please contact whateves@thedonain.com for more info
 [Hellar Studios](https://hellarstudios.com)
 
-![Pizza!](/binary_files/pizza.jpg "Yaay pizza!")
+![Pizza!](/Users/dianadiaz/Documents/GitHub/AICWorkshop_1strepository/binary_files/pizza.jpeg "Yaay pizza!")
